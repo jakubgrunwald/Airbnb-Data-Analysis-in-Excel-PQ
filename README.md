@@ -1,11 +1,9 @@
 # Data Analysis in Excel - Inside Airbnb: Tasmania
 ## Introdution
- Inside Airbnb is an watchdog site that scrapes and publishes data on milions of homestays that Airbnb operates every  
- year. Aside from all the controversies on Airbnb's business model and its illegal character the data seems  perfect for analysis. This repo is dedicated to all Airbnb homestays in Tasmania in 2023. The primary objective of this project 
- is to understand market dynamics: explore the distribution of listings across different regions of Tasmania, identify   
- pricing trends discerning popular tourist destinations. The conclusions of the analysis may prove useful for travelers, 
- property owners and hosts, business planning and researchers. 
-
+ Inside Airbnb is an watchdog site that scrapes and publishes data on milions of homestays that Airbnb operates every year. Aside from all the controversies on Airbnb's business model and its illegal character 
+ the data seems  perfect for analysis. This repo is dedicated to all Airbnb homestays in Tasmania in 2023. The primary objective of this project is to understand market dynamics: explore the distribution of 
+ listings across different regions of Tasmania, identify pricing trends discerning popular tourist destinations. The conclusions of the analysis may prove useful for travelers, property owners and hosts, business 
+ planning and researchers. 
 
 
 ## Table of contents
