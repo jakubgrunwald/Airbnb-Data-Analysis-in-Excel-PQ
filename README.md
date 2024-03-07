@@ -12,7 +12,11 @@
 ## Data source
  All the datsets are available on the [Inside Airbnb website](http://insideairbnb.com/get-the-data) 
  ![image](https://github.com/jakubgrunwald/Inside-Airbnb-Data-Analysis-in-Excel-PQ/assets/159199366/1a3b8cf1-5346-4e21-ba1a-a3ee019798ae)  
- The data is published quarterly so it's divided by [multiple CSV files](datasets)
+ The data is published quarterly so it's divided by [multiple CSV files](datasets)  
+
+To put it all together I need to append and merge data from each table using Power Query. **Query schema**
+![image](https://github.com/jakubgrunwald/Inside-Airbnb-Data-Analysis-in-Excel-PQ/assets/159199366/02f78a15-1c05-44e3-808b-41ae24a50574)
+
 
 
 
