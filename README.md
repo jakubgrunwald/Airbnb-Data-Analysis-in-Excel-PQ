@@ -7,7 +7,7 @@
 
 
 ## Table of contents
-Narazie koncept: It contains the process of data cleaning, building a query using MS Power Query, data exploration with visualisations and dashboard creation.
+* [Datasets](datasets)
 
 ## Data source
  All the datsets are available on the [Inside Airbnb website](http://insideairbnb.com/get-the-data) 
