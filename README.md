@@ -8,7 +8,7 @@
 
 ## Table of contents
 * [Datasets](datasets)
-* [1.Query Building-cleaning&combining](1. Query Building-cleaning & combining.md)
+* [1. Query Building-cleaning & combining](1.Query-Building-cleaning&combining.md)
 * 
 
 ## Data source
