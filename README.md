@@ -8,6 +8,7 @@
 
 ## Table of contents
 * [Datasets](datasets)
+* [1. Query Building-cleaning & combining](1. Query Building-cleaning & combining.md)
 
 ## Data source
  All the datsets are available on the [Inside Airbnb website](http://insideairbnb.com/get-the-data) 
