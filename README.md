@@ -1,3 +1,6 @@
+![image](https://github.com/jakubgrunwald/Inside-Airbnb-Data-Analysis-in-Excel-PQ/assets/159199366/c64ef0bf-62df-4e60-a2a3-b2c397d36eee)
+
+
 # Data Analysis in Excel - Inside Airbnb: Tasmania
 ## Introdution
  Inside Airbnb is an watchdog site that scrapes and publishes data on milions of homestays that Airbnb operates every year. Aside from all the controversies on Airbnb's business model and its illegal character 
