@@ -1,4 +1,4 @@
-![image](https://github.com/jakubgrunwald/Inside-Airbnb-Data-Analysis-in-Excel-PQ/assets/159199366/c64ef0bf-62df-4e60-a2a3-b2c397d36eee)
+![image](https://github.com/jakubgrunwald/Inside-Airbnb-Data-Analysis-in-Excel-PQ/assets/159199366/3957bae6-2bbe-428b-a7ba-122116fc2f58)
 
 
 # Data Analysis in Excel - Inside Airbnb: Tasmania
@@ -21,7 +21,11 @@
  The data is published quarterly so it's divided by [multiple CSV files](datasets)  
 
 To put it all together I need to append and merge data from each table using Power Query. **Query schema:**
-![image](https://github.com/jakubgrunwald/Inside-Airbnb-Data-Analysis-in-Excel-PQ/assets/159199366/97a5519f-a919-44fe-9001-ddbb6fa6b5c1)
+![image](https://github.com/jakubgrunwald/Inside-Airbnb-Data-Analysis-in-Excel-PQ/assets/159199366/97a5519f-a919-44fe-9001-ddbb6fa6b5c1)  
+
+## Dashboard preview  
+The last step of the analysis is to create a dashboard. The final report includes the most representative charts and KPIs needed to understand the market and its dynamics. The measures shown can help tourists when comparing destinations.  
+
 
 
 
