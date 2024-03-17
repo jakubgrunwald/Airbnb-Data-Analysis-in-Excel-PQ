@@ -25,6 +25,8 @@ To put it all together I need to append and merge data from each table using Pow
 
 ## Dashboard preview  
 The last step of the analysis is to create a dashboard. The final report includes the most representative charts and KPIs needed to understand the market and its dynamics. The measures shown can help tourists when comparing destinations.  
+![image](https://github.com/jakubgrunwald/Inside-Airbnb-Data-Analysis-in-Excel-PQ/assets/159199366/23713bb5-5e34-4889-af58-3a1dd407c4f8)
+
 
 
 
