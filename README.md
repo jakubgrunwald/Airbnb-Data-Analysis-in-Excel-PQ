@@ -5,14 +5,14 @@
 ## Introdution
  Inside Airbnb is an watchdog site that scrapes and publishes data on milions of homestays that Airbnb operates every year. Aside from all the controversies on Airbnb's business model and its illegal character 
  the data seems perfect for analysis. This repo is dedicated to all Airbnb reservations in Tasmania in 2023. **The primary objective** of this project is to understand market dynamics: explore the distribution of 
- listings in different regions of Tasmania, identify pricing trends and popular tourist destinations. The conclusions of the analysis may prove useful for travelers, property owners and hosts, business  
- planning and researchers. 
+ listings in different regions of Tasmania, identify pricing trends and popular tourist destinations.
 
  ### Utility for travelers
  The conclusions shown by graphs and the dashboard support travel planing. The story told through the data gives you insights about prices and their relationship with review scores. Using the dashboard you can easily compare regions in terms of their occupancy and other ratios. If you prefer specific types of accomodation the charts will indicate if and when Tasmania is a right place for it.
  
  ### Utility for buisness
- Donought charts showing the most representative ratios can give you clues about the demand and supply in each specific destination. The map shows the total absence of listings in some parts of the island.If you are a host data exploration will response helpful questions about the importance of rewiew score and the experience of hosts.
+ Donought charts showing the most representative ratios can give you clues about the demand and supply in each specific destination. The map shows the total absence of listings in some parts of the island.If you are a host data exploration will response helpful questions about the importance of rewiew score and the experience of hosts. You'll also know how significant the decrease in bookings can be during the Christmas period.
+
 
 ## Table of contents
 * [Datasets](datasets)
